@@ -17,13 +17,13 @@ group and it leads us to create different procedures and views for this specific
 B) Business forms and documents:<br />
 These were very important for our purpose of our database creation. We used number of
 forms which is used by business every day. Some of the forms we used were<br />
-1) New higher information form<br />
-2) Invoices<br />
-3) Sales Receipt<br />
-4) Expenses Reports<br />
-5) Customer Survey<br />
-6) Timesheets<br />
-7) Payroll details<br />
+&emsp;1)New higher information form<br />
+&emsp;2)Invoices<br />
+&emsp;3)Sales Receipt<br />
+&emsp;4)Expenses Reports<br />
+&emsp;5)Customer Survey<br />
+&emsp;6)Timesheets<br />
+&emsp;7)Payroll details<br />
 These forms sometimes contained redundant data and some of the information could be
 combined together. Hence we created database with following details.<br /><br />
 <b>Database for Data Solutions:</b><br />
@@ -35,4 +35,8 @@ extent.<br />
 It also has 8 stored procedure and 2 stored functions. Each of these 10 stored procedures or
 functions join two or more tables.There are 3 views in this database. All these views have been joined to output result.
 Data Solutions has 10 tables  <br />
-<img src= "images/database_diagram.PNG" width = "600" border="5">
+&nbsp;<img src= "images/database_diagram.PNG" width = "600" border="5">
+<b>Stored Functions:</b><br />
+&emsp;1)dbo.totalHours<br />
+&emsp;2)dbo.fullName<br /> 
+<b>Stored Procedures with cursor</b><br />
