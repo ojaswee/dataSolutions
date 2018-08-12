@@ -1,12 +1,13 @@
-# Mission statement
+# Data Solutions
+<b>Mission statement </b><br />
 The purpose of the Data Solutions database is to maintain the data we generate, and to supply
 information that supports the engagement services we provide to our clients and the management 
-services to all our teams.<br />
-#About Data Solutions:<br />
+services to all our teams.<br /> <br />
+<b>About Data Solutions:</b><br />
 Data solutions is a company which produces and sales various software and hardware products.
 Software which is related to testing is created by Quality department. Other software’s are
-created by IT department. Hardware products are produced by Operations department.<br />
-Requirements for Database:<br />
+created by IT department. Hardware products are produced by Operations department.<br /><br />
+<b>Requirements for Database:</b><br />
 Data Solutions had various business needs to be addressed in this database. To pinpoint these
 needs we had to conduct interviews with all stakeholders, gather information from forms and
 existing systems.<br />
@@ -24,8 +25,8 @@ forms which is used by business every day. Some of the forms we used were<br />
 6) Timesheets<br />
 7) Payroll details<br />
 These forms sometimes contained redundant data and some of the information could be
-combined together. Hence we created database with following details.<br />
-Database for Data Solutions:<br />
+combined together. Hence we created database with following details.<br /><br />
+<b>Database for Data Solutions:</b><br />
 Database for Data Solutions was created in SQL Server 2017. This database contains 10 tables.
 Each table has triggers that are set either at insert, update or delete. Come of the tables have
 triggers that are set for more than 1 instance. These details are discussed in the table section
