@@ -36,7 +36,16 @@ It also has 8 stored procedure and 2 stored functions. Each of these 10 stored p
 functions join two or more tables.There are 3 views in this database. All these views have been joined to output result.
 Data Solutions has 10 tables  <br />
 &nbsp;<img src= "images/database_diagram.PNG" width = "600" border="5">
-<b>Stored Functions:</b><br />
+<br /><b>Stored Functions:</b><br />
 &emsp;1)dbo.totalHours<br />
 &emsp;2)dbo.fullName<br /> 
+<b>Stored Procedures</b><br />
+&emsp;1)itemizedReceipt<br />
+&emsp;2)product_review<br />
+&emsp;3)retiringThisYear<br />
+&emsp;4)totlIemsByCustomer<br />
+&emsp;5)totalSalarybyDept<br />
+&emsp;6)totalValusofReceipt<br />
 <b>Stored Procedures with cursor</b><br />
+&emsp;1)birthdayThisMonth<br /> 
+&emsp;2)noOfDependents<br />
